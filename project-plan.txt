@@ -1,0 +1,8 @@
+Porject Files
+index.html (Homepage)
+new-post.html (Create Post)
+post.html (View/Edit Post)
+styles.css
+script.js
+
+CRUD Operations: Implement the ability to create, read, update, and delete blog posts.
